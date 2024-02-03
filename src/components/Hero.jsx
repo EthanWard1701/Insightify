@@ -24,7 +24,7 @@ const Hero = () => {
         <span className='orange_gradient '>Insightifys Industry Leading AI</span>
       </h1>
       <h2 className='desc'>
-      Summarize your articles with Insightifys industry leading AI technology. Transform unclear and lenghty articles into a clear and concise summaries!
+      Summarize your articles with Insightifys industry leading AI technology. Transform unclear and lenghty articles into clear and concise summaries!
       </h2>
     </header>
   );
