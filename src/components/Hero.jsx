@@ -11,7 +11,7 @@ const Hero = () => {
         <button
           type='button'
           onClick={() =>
-            window.open("https://youtu.be/dQw4w9WgXcQ?si=jT3h5CS-CWTZat5N", "_blank")
+            window.open("https://github.com/EthanWard1701/insightify", "_blank")
           }
           className='black_btn'
         >
